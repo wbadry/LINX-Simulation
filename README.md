@@ -4,4 +4,4 @@ Repo for testing LabVIEW MakerHub LINX library on Proteus. The repo has all file
 # Requirements:
 - LabVIEW 2015 or above.
 - Proteus ISIS 8.4 SP0 or higher
-- Virtual com port. Here is a free software: http://freevirtualserialports.com/
+- Virtual com port. Here is a [freeware tool] (http://freevirtualserialports.com)
